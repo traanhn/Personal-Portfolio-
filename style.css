@@ -1,0 +1,86 @@
+
+
+body,html {
+  font-family: Ubuntu;
+
+}
+
+#welcome-section { 
+  background-size: cover;
+  background-repeat: no-repeat;  
+  background-position: center ;
+  background-color: pink; 
+  height: 700px;
+  width: 100%; 
+  position: relative;  
+  background: url("https://static1.squarespace.com/static/57114556f8508286645a66e0/t/5748646b8a65e22d87e5d159/1464362133087/bigstock-Desktop-mix-on-a-wooden-office-92104088.jpg?format=1500w"); 
+}
+
+h2{
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 50px;   
+  font-weight: bold;
+
+}
+#about,#projects,#contact { 
+  padding-top: 70px; 
+ 
+}
+
+.project-tile{
+  padding-top: 70px;
+  padding-bottom: 50px;
+  border-radius: 12px;
+  border-style: solid;
+  
+}
+
+#contact{
+  background-color: #F7F5E6;
+  color: #333A56;
+
+}
+
+#projects{
+  background-color: #F7F5E6;
+  color: #333A56;
+}
+
+#about{
+  background-color: #F7F5E6;
+  color: #333A56;
+
+}
+
+h1{
+  
+  color: #333A56;
+}
+.sites{
+  background-color: #333A56;
+  color: #F7F5E6;
+  border-radius: 12px; 
+  font-family: Ubuntu;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+
+}
+p{
+  padding-top: 20px;
+}
+.about{
+  border-radius: 12px;
+  margin-right: 400px;
+}
+
+
+
